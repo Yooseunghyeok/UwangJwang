@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175116581646",
+    "project_id": "hackerton-15735",
+    "storage_bucket": "hackerton-15735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175116581646:android:0460d96781a6e91c81f55f",
+        "android_client_info": {
+          "package_name": "com.example.hackerton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlkpI3WZq6t_ERicUUdHyRvc4_HVIWY4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
